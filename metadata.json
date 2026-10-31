@@ -1,0 +1,6 @@
+{
+  "name": "Meu Império - Simulador de Empreendedorismo",
+  "description": "Simulador 2D top-down de empreendedorismo, gestão e reconstrução progressiva de negócios comerciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
